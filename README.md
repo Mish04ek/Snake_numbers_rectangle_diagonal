@@ -1,0 +1,1 @@
+# Snake_numbers_rectangle_diagonal
